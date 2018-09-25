@@ -4,7 +4,7 @@ This is allowed and legit, legal. You will **NOT** be banned for that.
 
 ### How to install
 
-Just go to the releases and download the last .exe (or the one that is working)
+Just go to the releases (https://github.com/rlevet/dbd-autostruggle/releases) and download the last .exe (or the one that is working).
 Just run it and follow instructions.
 
 ### Is it safe?
