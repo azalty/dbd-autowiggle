@@ -1,4 +1,4 @@
-## This project is updated in https://rlevetspam.wixsite.com/dbd-autoscripts/ and WILL NOT be updated on GitHub
+## This project is uploaded in https://rlevetspam.wixsite.com/dbd-autoscripts/ and contains more content that this GitHub
 
 ### dbd-autostruggle
 It's an AutoStruggle script for Dead by Daylight.
