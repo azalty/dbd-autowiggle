@@ -1,3 +1,5 @@
+#### This project is updated in https://rlevetspam.wixsite.com/dbd-autoscripts/ and WILL NOT be updated on GitHub
+
 ### dbd-autostruggle
 It's an AutoStruggle script for Dead by Daylight.
 This is allowed and legit, legal. You will **NOT** be banned for that.
