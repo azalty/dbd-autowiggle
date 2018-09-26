@@ -3,9 +3,8 @@
 EAC can eventually toggle this as a cheat.
 But shouldn't as it actually only checks the game's files.
 
-You should contact devs if you eventually got banned.
-
-=> Post in Issues if any problem with EAC
+USE THIS AT YOUR OWN RISK. DEVS SAID THEY WILL NOT UNBAN YOU FOR THAT.
+(but if they really don't, they will be submerged of ****..)
 
 
 
