@@ -11,7 +11,8 @@ Just run it and follow instructions.
 
 **Yes.** I tested it the 25/09/2018 (Day/Month/Year format) and it was working and safe.
 EasyAntiCheat didn't blocked it and it worked.
-Working versions : **1.0.2** ; 1.0.1 WEB
+
+Working versions : **1.0.2** - 1.0.1 WEB
 
 ### How does it work?
 
