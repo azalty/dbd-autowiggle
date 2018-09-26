@@ -1,10 +1,10 @@
-### dbd-autostruggle
-It's an AutoStruggle script for Dead by Daylight.
+### dbd-autowiggle
+It's an AutoWiggle script for Dead by Daylight.
 This is allowed and legit, legal. You will **NOT** be banned for that.
 
 ### How to install
 
-Just go to the releases (https://github.com/rlevet/dbd-autostruggle/releases) and download the last .exe (or the one that is working).
+Just go to the releases (https://github.com/rlevet/dbd-autowiggle/releases) and download the last .exe (or the one that is working).
 Just run it and follow instructions.
 
 ### Is it safe?
@@ -23,5 +23,5 @@ The script is under a timer to make that it will not exceed human's speed. We al
 
 ### It doesn't work, help me!
 
-Post in Issues (https://github.com/rlevet/dbd-autostruggle/issues) and I will change a little the script for you.
+Post in Issues (https://github.com/rlevet/dbd-autowiggle/issues) and I will change a little the script for you.
 Also, be sure to check old releases to see if any is working for you.
