@@ -33,7 +33,7 @@ If some developpers or random guys don't agree with this script, please email th
 
 If it doesn't work for you, please post in issues
 
-Not Working : https://github.com/rlevet/dbd-autostruggle/issues/new?template=not-working.md
-Bug Report : https://github.com/rlevet/dbd-autostruggle/issues/new?template=bug-report.md
+Not Working : https://github.com/rlevet/dbd-autowiggle/issues/new?template=not-working.md
+Bug Report : https://github.com/rlevet/dbd-autowiggle/issues/new?template=bug-report.md
 
 (you will need to create an account)
