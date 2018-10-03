@@ -12,7 +12,7 @@ Just run it and follow instructions.
 **Yes.** I tested it the 03/10/2018 (Day/Month/Year format) and it was working and safe.
 EasyAntiCheat didn't blocked it and it worked.
 
-Last working and safe version : **1.0.3**
+Last working and safe version : **1.0.3** and **1.0.3+**
 
 ### How does it work?
 
