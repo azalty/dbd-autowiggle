@@ -1,10 +1,13 @@
 --- EAC
 
+**EAC said they won't ban autoscripts**
+
 EAC can eventually toggle this as a cheat.
 But shouldn't as it actually only checks the game's files.
 
-USE THIS AT YOUR OWN RISK. DEVS SAID THEY WILL NOT UNBAN YOU FOR THAT.
-(but if they really don't, they will be submerged of ****..)
+USE THIS AT YOUR OWN RISK.
+DEVS SAID THAT IF YOU ARE BANNED BY EAC THEY WON'T UNBAN YOU BUT **EAC SAID THEY WILL NOT BAN AUTO SCRIPTS** (as long they not give an advantage, something people are not able to do)
+
 
 
 
