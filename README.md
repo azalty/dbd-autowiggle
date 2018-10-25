@@ -1,4 +1,4 @@
-### dbd-autowiggle
+# dbd-autowiggle
 It's an AutoWiggle script for Dead by Daylight.
 This is allowed and legit, legal. You will **NOT** be banned for that.
 
