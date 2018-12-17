@@ -25,3 +25,7 @@ The script is under a timer to make that it will not exceed human's speed. We al
 
 Post in Issues (https://github.com/rlevet/dbd-autowiggle/issues) and I will change a little the script for you.
 Also, be sure to check old releases to see if any is working for you.
+
+### What do I need to have?
+
+Nothing more is required. You only need to have Windows 7 or + and a keyboard that have the "F" and "F10" buttons.
