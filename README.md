@@ -10,7 +10,7 @@ Just run it and follow instructions.
 ### Is it safe?
 
 **Yes.** I tested it the 04/07/2019 (Day/Month/Year format) and it was working and safe.
-EasyAntiCheat didn't blocked it and it worked.
+EasyAntiCheat didn't block it and it worked.
 
 Last working and safe version : **1.0.4**
 
